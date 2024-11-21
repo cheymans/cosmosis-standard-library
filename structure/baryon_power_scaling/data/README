@@ -1,0 +1,16 @@
+This directory contains a compilation of non-linear power spectra from various different hydrodynamical simulations. 
+It is a subset of the power spectrum library described in van Daalen, McCarthy & Schaye (2020), which can be downloaded from https://powerlib.strw.leidenuniv.nl/#data, in addition to new data from the FLAMINGO consortium (Schaye et al 2023) which can be downloded from https://flamingo.strw.leidenuniv.nl
+
+
+For the data that you use from this directory, you must cite the relevant paper, or papers, in any subsequent publications.
+
+BAHAMAS: McCarthy et al 2017, https://doi.org/10.1093/mnras/stw2792
+FLAMINGO: Schaye et al 2023, https://doi.org/10.1093/mnras/stad2419
+HzAGN (Horizon): Dubois et al 2014, https://doi.org/10.1093/mnras/stu1227
+TNG100: Springel et al 2018, https://doi.org/10.1093/mnras/stx3304
+cowls (Cosmo-OWLS): Le Brun et al 2014, https://doi.org/10.1093/mnras/stu608
+eagle: Schaye et al 2015, https://doi.org/10.1093/mnras/stu2058
+ill1 (Illustrus-1): Vogelsberger et al 2014, https://doi.org/10.1093/mnras/stu1536
+mb2 (Massive Black 2): Khandai et al 2015, https://doi.org/10.1093/mnras/stv627
+owls (inc. powtable files): Schaye et al 2010, https://doi.org/10.1111/j.1365-2966.2009.16029.x
+
