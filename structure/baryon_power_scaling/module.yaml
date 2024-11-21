@@ -4,9 +4,9 @@ version: "1.0"
 purpose: "Apply baryonic effects to nonlinear pk based on hydrodynamic simulation measurements"
 url: ""
 interface: baryonic_interface.py
-attribution: [CosmoSIS Team, Angela Chen]
-rules: ""
-cite: []
+attribution: [Interface - CosmoSIS Team, Angela Chen.  Hydrodynamical simulations - please see the README in the data directory]
+rules: "Please cite the relevant hydrodynamical simulation papers if you use their data in your research"
+cite: "See structure/baryon_power_scaling/data/README for a list of the papers to cite"
 
 
 assumptions:
